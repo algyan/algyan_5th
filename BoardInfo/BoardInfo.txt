@@ -1,0 +1,3 @@
+-EAGLE 9.6.1
+-2-Layer
+-Use Lib http://amateras.tech
