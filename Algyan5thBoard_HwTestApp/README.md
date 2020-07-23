@@ -59,7 +59,7 @@ Arduino IDE で ESP32 やM5シリーズ(M5Stack, M5Stick-C, M5ATOM 等) を書�
 
 ### ①USBシリアルケーブルから電源を取る場合
 
-![接続写真](/images/UsbSer5V.jpg)
+![接続写真](./images/UsbSer5V.jpg)
 
 以下の場合に使用します。  
 ・USBシリアルケーブルに 5V がある場合  
@@ -74,7 +74,7 @@ Arduino IDE で ESP32 やM5シリーズ(M5Stack, M5Stick-C, M5ATOM 等) を書�
 
 ### ②電源コネクタ(CN1)から電源を取る場合
 
-![接続写真](/images/UsbSerOpen.jpg)
+![接続写真](./images/UsbSerOpen.jpg)
 
 以下の場合に使用します。  
 ・そもそもUSBシリアルケーブルに 5V がない場合  
