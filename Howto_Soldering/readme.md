@@ -87,7 +87,7 @@
 
 * "ALGYAN-5th_board_parts_list.pdf"を印刷して、パーツに不足がないか確認をしましょう。
 
-  * ALGYAN-5th_board_parts_list.pdf
+  * [ALGYAN-5th_board_parts_list.pdf](ALGYAN-5th_board_parts_list.pdf)
 ![s2](ALGYAN-5th_board_parts_list.png)
 
 ---
