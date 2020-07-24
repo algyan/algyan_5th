@@ -21,7 +21,7 @@
 * [2. 基板の改修](#2-0)
   * [2-1 パターンカット](#2-1)
   * [2-2 ジャンパーワイヤはんだ付け](#2-2)
-* [3. 動作確認](../Algyan5thBoard_HwTestApp/readme.md)
+* [3. 動作確認](../Algyan5thBoard_HwTestApp)
 
 ---
 
