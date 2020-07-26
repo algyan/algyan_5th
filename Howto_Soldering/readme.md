@@ -86,7 +86,8 @@
 ### <a name="S-2">S-2 部品の確認</a>
 
 * "ALGYAN-5th_board_parts_list.pdf"を印刷して、パーツに不足がないか確認をしましょう。
-
+  * 左下の番号ははんだ付けの順序になります。
+  * 極性のある部品については、このリスト上に「極性注意」の赤字で記載もしています。
   * [ALGYAN-5th_board_parts_list.pdf](ALGYAN-5th_board_parts_list.pdf)
 ![s2](ALGYAN-5th_board_parts_list.png)
 
